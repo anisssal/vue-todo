@@ -40,7 +40,7 @@
     <div class="card m-5">
       <div class="card-body">
         <div class="card-title p-3">
-          <h1>Simple Todo</h1>
+          <h1>Simple Todo Purwakarta</h1>
         </div>
 <!-- 
         <Todo> </Todo> -->
